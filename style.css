@@ -1,0 +1,5 @@
+img{
+    width: calc(60% / 5);
+    display: inline-block;
+    padding: 15px;
+}
