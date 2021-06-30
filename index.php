@@ -26,7 +26,6 @@
                     echo "<li>" . $album["author"] . "</li>";
                     echo "<li>" . $album["genre"] . "</li>";
                     echo "<li>" . $album["year"] . "</li>";
-                    // echo "<h1>" .$damiano ."</h1>";
                 };
 
              ?>

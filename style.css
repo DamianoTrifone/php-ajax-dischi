@@ -1,5 +1,15 @@
 img{
-    width: calc(60% / 5);
-    display: inline-block;
+    width: 90px;
     padding: 15px;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    float: left;
+    margin: 0 auto;
+    padding: 24px;
+    flex-wrap: wrap;
 }
